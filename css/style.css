@@ -1,0 +1,13 @@
+.jumbotron {
+	background-color: #8500ff;
+	color: #b95fc1;
+}
+
+.panel-default {
+    /* background-color: blue; */
+    padding: 20px;
+    /* background-color: red; */
+    background-color: white;
+}
+
+.panelstuff {/* color: white; */}
